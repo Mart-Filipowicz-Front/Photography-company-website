@@ -22,6 +22,7 @@
 ## Technologies Used
 - HTML5
 - CSS3
+- SASS
 - Bootstrap - version 5.2.0
 
 
