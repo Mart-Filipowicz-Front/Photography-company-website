@@ -1,5 +1,6 @@
 # Website foor photography company.
-> This website is my project for some fake company, written in HTML5 and using SASS.
+> This project is a website for some photography company, written in HTML5, CSS, SASS, BOOTSTRAP and also using AOS animations.
+> Visit this site to watch project live: https://mart-filipowicz-front.github.io/Photography-company-website/ .
 
 
 ## Table of Contents
@@ -30,7 +31,7 @@ Project is not comercial, but part of my portfolio. It contains every neccesary 
 
 
 ## Setup
-Project doesn't require any special dependencies. To open whole website, there is a need to download zip and open file 'index.html'.
+Project doesn't require any special dependencies. To open whole website, there is a need to download zip and open file 'index.html'. The second posibility to see the project is to visit this live link: https://mart-filipowicz-front.github.io/Photography-company-website/ .
 
 
 
