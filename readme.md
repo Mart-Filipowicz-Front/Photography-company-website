@@ -1,4 +1,4 @@
-# Website foor photography company.
+# Website for photography company.
 > This project is a website for some photography company, written in HTML5, CSS, SASS, BOOTSTRAP and also using AOS animations.
 > Visit this site to watch project live: https://mart-filipowicz-front.github.io/Photography-company-website/ .
 
